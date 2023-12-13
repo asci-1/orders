@@ -5,6 +5,10 @@ html {
   position:relative;
  }
 
+body {
+  position:relative;
+}
+
   a {
   width: 50px;
   text-decoration: none;
