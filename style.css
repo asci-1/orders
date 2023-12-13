@@ -2,6 +2,7 @@ html {
   background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a9aead), to(#c5cdcf));
   background: -webkit-linear-gradient(top, #c5cdcf, #a9aead);
   background: -moz-linear-gradient(top, #c5cdcf, #a9aead);
+  position:relative;
  }
 
   a {
