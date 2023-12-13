@@ -5,7 +5,7 @@ html {
  }
 
 body {
-  position:relative;
+  position: fixed;
 }
 
   a {
@@ -62,7 +62,6 @@ h1 {
     background-color: #000033;
     margin: -10px;
     padding: 13px 11px 11px 11px;
-  position: fixed;
   }
 
   h2 {
@@ -72,7 +71,6 @@ h1 {
     text-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
     FONT-SIZE: 18PX; 
     height: 5px;
-    position: fixed;
   }
 
 
@@ -82,7 +80,6 @@ h1 {
     text-align: center;
     text-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
     FONT-SIZE: 18PX; 
-    position: fixed;
   }
 
 .card-wrap {
