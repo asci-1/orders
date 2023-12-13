@@ -87,12 +87,10 @@ h1 {
   text-align: center; }
 
 .card {
-  width: 400px;
   height: 500px;
   position: relative;
   background: #fff;
   overflow: visible;
-  margin: 20px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
   display: inline-block; }
 
