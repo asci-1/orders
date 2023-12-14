@@ -2,11 +2,11 @@ html {
   background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#a9aead), to(#c5cdcf));
   background: -webkit-linear-gradient(top, #c5cdcf, #a9aead);
   background: -moz-linear-gradient(top, #c5cdcf, #a9aead);
- }
+   }
 
-body {
-
-}
+   body {
+    display: inline-block;
+   }
 
   a {
   width: 50px;
@@ -47,7 +47,7 @@ span {
   align-items: center;
   justify-content: center;
   height: 100%;
-  display: block;
+  
     margin-block-start: 1em;
     margin-block-end: 1em;
     margin-inline-start: 0px;
@@ -91,6 +91,7 @@ h1 {
   position: relative;
   background: #fff;
   overflow: visible;
+  margin: 20px;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
   display: inline-block; }
 
@@ -749,4 +750,6 @@ h1 {
   border-bottom: 4px solid transparent;
   border-top: 4px solid #BF0B00; 
 }
+
+
 
