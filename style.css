@@ -6,7 +6,9 @@ html {
 
    body {
     display: inline-block;
-     margin: auto;
+     /*margin: auto;*/
+     overflow-x: hidden;
+     margin: 0;
    }
 
   a {
